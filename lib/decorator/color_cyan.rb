@@ -1,6 +1,6 @@
 module Decorator
   class ColorCyan
-    COLOR = "\e[36m"
+    COLOR = "\e[36m" #ÉVÉAÉì
     CLEAR = "\e[m"
     def initialize(actor)
       @actor = actor
